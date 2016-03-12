@@ -25,6 +25,7 @@ body {
 
 h1 {
   font-size: 1.2rem;
+  font-weight: normal;
   text-transform: uppercase;
   text-align: center;
   line-height: 1.5;
